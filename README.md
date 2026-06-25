@@ -128,3 +128,10 @@ contract BaseLuckyWheel is Ownable {
         players[player].points += amount;
     }
 }
+transaction hash	0x675b83f34ce09e92872973bf237a996638b624735851bda7d3349a37410a2572
+block hash	0xc83cfd00977080f79a79d70353e17034dda971a9ef14899318744144533b67f8
+block number	47796325
+contract address	0x63Dbd5572BaE9B821211F7829337d0434Cd2A98d
+from	0x28FDAc6DdB21C7F4Bf5227E32E002D5A937De5db
+to	BaseLuckyWheel.(constructor)
+transaction cost	1169196 gas 
